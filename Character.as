@@ -109,7 +109,7 @@
 		kickTimer = tkickTimer;
 		jetFuel = tjetFuel;
 		skateboard = tskateboard;
-		skater = tskater;
+		ruby = tskater;
 		rubyFrame = Math.ceil(Math.random()*36);
 		dashTimer = 0;
 	}
